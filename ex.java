@@ -1,4 +1,4 @@
-package oi;
+package 28;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 public class ex28 {
