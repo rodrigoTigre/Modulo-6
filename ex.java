@@ -30,7 +30,7 @@ public class ex28 {
 	System.out.print("Qual é a sexta variavel que quer introduzir?");
 	variavel5 = LerS.nextInt();
 	pq1.add(variavel5);
-	System.out.print ("Flia Original:" +pq1);
+	System.out.print ("Fila Original:" +pq1);
 	System.out.print("A variavel à cabeça:" + pq1.element());
 	
 	
